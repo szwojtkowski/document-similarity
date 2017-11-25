@@ -1,0 +1,54 @@
+Inżynieria Mechatroniczna
+
+Wydział Inżynierii Mechanicznej i Robotyki
+Absolwent studiów I stopnia posiada wiedzę z zakresu:
+
+matematyki, fizyki, chemii, informatyki,
+metod numerycznych,
+właściwości materiałów stosowanych w mechatronice,
+podstaw elektroniki i elektrotechniki, robotyki, napędów i czujników, w tym systemów wizyjnych,
+metrologii, metod pomiaru podstawowych wielkości fizycznych, znajomości metod obliczeniowych i narzędzi niezbędnych do analizy wyników eksperymentu,
+mechaniki technicznej, automatyki i teorii sterowania, systemów mikroprocesorowych, podstaw IT, metod i technik programowania,
+teorii konstrukcji maszyn precyzyjnych, w tym teorii maszyn i mechanizmów,
+metodologii projektowania urządzeń mechatronicznych oraz metod i technik stosowanych w zakresie projektowania, w tym sztucznej inteligencji,
+narzędzi komputerowych do projektowania i symulacji urządzeń mechatronicznych,
+posiada wiedzę o cyklu życia urządzeń i systemów mechatronicznych,
+posiada wiedzę z zakresu ochrony własności intelektualnej i praw patentowych,
+posiada wiedzę z zakresu zarządzania, w tym zarządzania jakością i działalnością gospodarczą.
+
+Ponadto absolwent studiów II stopnia posiada specjalistyczną wiedzę w zakresie jednej z trzech specjalizacji prowadzonych w zakresie projektowania mechatronicznego, wytwarzania mechatronicznego oraz systemów inteligentnych. Posiada wiedzę z zakresu projektowania konstrukcji mechanicznych, projektowania układów elektronicznych, projektowania układów sterowania oraz przygotowywania oprogramowania, jak również zna techniki wirtualnego i szybkiego prototypowania, projektowania układów wbudowanych, inteligentnych autonomicznych urządzeń mechatronicznych oraz mikroukładów (MEMS).
+Absolwent studiów I stopnia potrafi:
+
+pracować indywidualnie i w zespole jak również kierować małym zespołem,
+potrafi opracować dokumentację oraz przygotować, przedstawić i przeprowadzić dyskusję na temat realizacji zadania,
+potrafi wykorzystać poznane metody i modele matematyczne — w razie potrzeby odpowiednio je modyfikując — do analizy i projektowania elementów, urządzeń i systemów mechatronicznych,
+potrafi projektować urządzenia i systemy mechatroniczne z uwzględnieniem zadanych kryteriów użytkowych i ekonomicznych,
+potrafi korzystać z narzędzi analitycznych, symulacyjnych w projektowaniu urządzeń i systemów mechatronicznych oraz w projektowaniem procesu ich wytwarzania,
+potrafi zaproponować ulepszenia istniejących rozwiązań projektowych i modeli elementów, urządzeń i systemów mechatronicznych,
+potrafi ocenić przydatność nowych osiągnięć w zakresie materiałów, komponentów, metod projektowania i wytwarzania do projektowania lub wytwarzania urządzeń i systemów mechatronicznych, zawierających rozwiązania o charakterze innowacyjnym.
+Ponadto absolwent studiów II stopnia potrafi:
+
+rozwiązywać problemy związane z integracją układów mechatronicznych,
+potrafi posługiwać się komputerowymi narzędziami wspomagania pracy inżyniera,
+efektywnie się komunikować i współpracować w wielodziedzinowym środowisku pracy,
+potrafi realizować projekty w zespołach studenckich, jak również zarządzać pracą takiego zespołu,
+być zaangażowanym w ciągłe doskonalenie, aby poszerzać swoją wiedzę zawodową.
+Praktyki
+
+W ramach studiów I stopnia student ma obowiązek odbyć 4-tygodniową praktykę zawodową, którą realizuje w trakcie letniej przerwy w 6 semestrze studiów. Każdy student realizuje praktykę indywidualnie w wybranym przez siebie zakładzie, którego działalność związana jest z inżynierią mechaniczną, inżynierią wytwarzania. W ramach studiów II stopnia student w trakcie 3 semestru studiów realizuje miesięczną praktykę dyplomową, najczęściej powiązaną z tematyką realizowanej pracy magisterskiej.
+
+Do najważniejszych firm, z którymi współpracuje wydział należą m.in. KGHM Polska Miedź, PZL, KHW, Tauron, WOLFRAM, CDM Smith, EMT-Systems, KIRCHHOFF Polska, Valmet Automation, FTT Stomil Wolbrom, SIGNALCO LTD, Sandvik Polska, National Instruments.
+Perspektywy zawodowe
+
+Absolwenci kierunku mogą pracować jako:
+projektant, konstruktor,
+inżynier (np. główny inżynier w zakładzie, inżynier ds. produktu, ds. testów, ds. walidacji),
+mechatronik.
+Miejsca pracy
+
+biura projektowe (zajmujące się układami mechanicznymi lub mechatronicznymi),
+firmy konsultingowe, konstrukcyjne i technologiczne,
+jednostki naukowo-badawcze oraz przemysłowe w zakresie badań i rozwoju, prac doświadczalnych i testowania układów mechanicznych, mechatronicznych lub sterowania,
+prowadzenie własnej działalności gospodarczej.
+
+Jak wskazują prowadzone badania ponad 90% absolwentów kierunku znajduje pracę w ciągu pół roku od ukończenia studiów. Inżynieria Mechatroniczna jest interdyscyplinarnym kierunkiem studiów obejmującym zagadnienia z obszarów mechaniki, sterowania, informatyki i elektroniki. Kierunek Inżynieria Mechatroniczna w roku 2016 w Rankingu Szkół Wyższych „Perspektywy” został wybrany najlepszym kierunkiem w łączonej grupie Automatyki i Robotyki oraz Mechatroniki.

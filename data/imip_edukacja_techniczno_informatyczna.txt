@@ -1,0 +1,74 @@
+Edukacja Techniczno-Informatyczna
+
+Wydział Inżynierii Metali i Informatyki Przemysłowej
+Absolwent studiów I stopnia posiada wiedzę z zakresu:
+
+inżynierii materiałowej oraz inżynierii wytwarzania, w szczególności w zakresie: procesów wytwarzania oraz przetwarzania materiałów, kształtowania struktury i własności materiałów, przeróbki plastycznej metali, obróbki wykończeniowej, spajania, cięcia i łączenia materiałów,
+informatyki, w szczególności w zakresie: programowania strukturalnego i obiektowego, projektowania systemów informatycznych ze szczególnym uwzględnieniem tworzenia aplikacji internetowych oraz aplikacji na urządzenia mobilne, tworzenia interfejsów graficznych dla systemów komputerowych, projektowania, wdrażania i administrowania systemami sieciowymi,
+pedagogiki, psychologii, zarządzania zasobami ludzkimi w różnych gałęziach przemysłu, administracji gospodarczej oraz w sektorze szkoleń i edukacji.
+Ponadto absolwent studiów II stopnia posiada wiedzę z zakresu:
+
+inżynierii materiałowej, ze szczególnym uwzględnieniem: materiałów specjalnych, nowoczesnych metod badań materiałów,
+technologii wytwarzania,
+inżynierii jakości, logistyki oraz zarządzania produkcją usługami i personelem,
+projektowania grafiki trójwymiarowej i animacji,
+programowania aplikacji na urządzenia mobilne,
+zaawansowanych technik internetowych,
+zasad bezpieczeństwa sieciowego i zabezpieczania internetowych systemów komputerowych,
+prowadzenia szkoleń z obszaru techniki i informatyki.
+Absolwent studiów I stopnia potrafi:
+
+dokonać krytycznej analizy sposobu funkcjonowania rozwiązań z obszaru inżynierii materiałowej oraz potrafi zaplanować i rozwiązać proste problemy z zakresu inżynierii materiałowej z uwzględnieniem doboru właściwych materiałów,
+projektować procesy technologiczne z uwzględnieniem wymagań bezpieczeństwa oraz ekonomicznych,
+oszacować aspekty ekonomiczne przyjętych rozwiązań technicznych,
+ocenić przydatność rutynowych metod badania materiałów oraz wybrać i zastosować właściwą metodę i narzędzia,
+przygotować opracowanie dotyczące zagadnień technicznych,
+stosować metody grafiki inżynierskiej, posługiwać się komputerowymi programami aplikacyjnymi i korzystać z baz danych,
+programować z wykorzystaniem strukturalnych i obiektowych języków programowania,
+zaprojektować i zaimplementować system komputerowy ze szczególnym uwzględnieniem aplikacji webowych,
+zaprojektować i utworzyć interfejs graficzny dla systemu komputerowego,
+tworzyć wizualizacje i animacje z wykorzystaniem dedykowanych programów komputerowych,
+administrować systemami sieciowymi,
+potrafi zaplanować i przeprowadzić proces dydaktyczny (szkolenie) z zakresu techniki i informatyki.
+Ponadto absolwent studiów II stopnia potrafi:
+
+zaplanować proces technologiczny dla uzyskania żądanych własności materiału,
+zaplanować i przeprowadzić badania materiałów inżynierskich z wykorzystaniem podstawowych metod,
+komunikować się w zakresie problemów technicznych i informatycznych, z wykorzystaniem różnych technik, również w języku obcym,
+korzystać ze specjalistycznych źródeł informacji w celu opracowania problemu technicznego,
+wykorzystać najnowsze narzędzia w zakresie wytwarzania webowych systemów komputerowych z uwzględnieniem specyfiki systemów mobilnych,
+administrować systemami sieciowymi z zapewnieniem wysokopoziomowych polityk bezpieczeństwa,
+tworzyć wizualizacje i animacje z wykorzystaniem graficznych bibliotek 3D dla aplikacji webowych,
+funkcjonować w środowisku przemysłowym z uwzględnieniem aspektów ekonomicznych i zarządzania zespołem,
+zaplanować i przeprowadzić kursy dokształcające i szkolenia specjalistyczne z obszaru techniki i informatyki.
+Praktyki
+
+Praktyki zawodowe trwają 4 tygodnie w czasie letniej przerwy na 6 semestrze studiów stacjonarnych I stopnia. Student odbywa praktykę w wybranym przez siebie zakładzie/przedsiębiorstwie. Praktyki studentów mogą być realizowane w krajowych i zagranicznych zakładach/przedsiębiorstwach przemysłowych, instytucjach publicznych i niepublicznych, których charakter działań związany jest z kierunkiem odbywanych studiów. Praktyki mogą być również realizowane w jednostkach organizacyjnych AGH. Na studiach II stopnia student odbywa praktykę dyplomową związaną z realizacją pracy magisterskiej. Ponadto studenci odbywają na 3 semestrze studiów 30 godzinną praktykę psychologiczno-pedagogiczną oraz na 6 semestrze praktykę pedagogiczną (180 godzin).
+
+Do najważniejszych firm, z którymi w ramach organizacji praktyk współpracuje wydział należą m.in. ArcelorMittal Poland, KGHM Polska Miedź, CELSA GROUP, Toyota Motor Manufacturing Poland, CMC Zawiercie, a także instytuty badawcze: Instytut Metalurgii i Inżynierii Materiałowej PAN, Instytut Metalurgii Żelaza w Gliwicach, ABB, Silvermedia, Asseco Poland, Comarch oraz Macrologic.
+Perspektywy zawodowe
+
+Absolwenci kierunku mogą pracować jako:
+specjaliści w zakresie inżynierii materiałowej oraz technologii wytwarzania,
+administratorzy systemów komputerowych,
+programiści,
+inżynierzy oprogramowania,
+administratorzy baz danych,
+webmasterzy,
+graficy komputerowi oraz projektanci CAD/CAM,
+profesjonalnie przygotowani szkoleniowcy w obszarze szkoleń z zakresu wybranych obszarów techniki jak i informatyki,
+program studiów spełnia wszystkie standardy kształcenia nauczycieli wyznaczone przez rozporządzenie MEN.
+Miejsca pracy:
+
+przedsiębiorstwa zajmujące się procesami wytwarzania i kształtowania materiałów inżynierskich (np. odlewnie, stalownie, zakłady przeróbki plastycznej),
+przedsiębiorstwa zajmujące się projektowaniem i konstruowaniem materiałów i procesów (np. laboratoria techniczne i badawcze, firmy projektowe, zakłady obróbki precyzyjnej),
+w działach wsparcia informatycznego i projektowania inżynierskiego w wielu branżach, np. w kontroli jakości, działach sprzedaży i zaopatrzenia, marketingu itp., ze szczególnym uwzględnieniem firm działających w obszarze wytwarzania i przetwórstwa metali,
+w firmach informatycznych zajmujących się projektowaniem i wdrażaniem aplikacji i systemów internetowych,
+w firmach działających w obszarze handlu elektronicznego i e-usług,
+w działach zajmujących się promocją i marketingiem firm w Internecie,
+instytucjach i urzędach wdrażających internetowe systemy obsługi klientów,
+firmach szkoleniowych i szkołach kształcących w zakresie poznanych zagadnień technicznych i informatycznych (uwzględniając również szkolnictwo publiczne).
+
+Jak wskazują wyniki badań losów zawodowych absolwentów kierunku Edukacja Techniczno-Informatyczna, prowadzonych przez Centrum Karier AGH, około 55% absolwentów niniejszego kierunku znajduje pracę w czasie poniżej 1 miesiąca, a 90% absolwentów znajduje pracę w ciągu 6 miesięcy.
+
+Program studiów na kierunku ETI, spełnia wszystkie standardy kształcenia nauczycieli wyznaczone przez rozporządzenie MEN.

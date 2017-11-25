@@ -1,0 +1,38 @@
+Inżynieria Obliczeniowa
+
+Wydział Inżynierii Metali i Informatyki Przemysłowej
+Absolwent studiów I stopnia posiada wiedzę z zakresu:
+
+podstawowych zagadnień matematyki, fizyki i chemii, które obejmują elementy matematyki dyskretnej oraz metod numerycznych niezbędnych do opisu i analizy działania urządzeń technicznych, procesów technologicznych oraz zjawisk przyrodniczych,
+modelowania i symulacji złożonych procesów technologicznych oraz zjawisk obserwowanych w naturze, ze szczególnym uwzględnieniem modelowania procesów metalurgicznych, numerycznego projektowania nowych materiałów,
+podstawy tworzenia oprogramowania włączając języki programowania, technologie baz danych, metody grafiki komputerowej, metody projektowania systemów komputerowych i inne zagadnienia z zakresu inżynierii oprogramowania,
+podstawy budowy i działania komputerów, ich systemów operacyjnych oraz sieci komputerowych.
+Absolwent potrafi:
+
+formułować rozwiązania problemów w zakresie zjawisk fizycznych występujących w przemyśle i naturze z zastosowaniem metod analitycznych, symulacyjnych i eksperymentalnych,
+utworzyć program symulujący zjawiska fizyczne wraz z modułem graficznej prezentacji wyników oraz graficznym interfejsem użytkownika,
+zrealizować instalację systemu komputerowego lub sieci komputerowej wraz z instalacją i administracją poprawnie dobranych urządzeń oraz konfiguracją odpowiedniego oprogramowania,
+utworzyć oprogramowanie dobierając odpowiednie algorytmy oraz posługując się właściwymi językami programowania dla wykorzystywanych architektur komputerowych,
+wskazać podstawowe zadania związane z tworzonym systemem komputerowym, kontrolować oraz dokumentować proces tworzenia oprogramowania,
+porozumiewać się w środowisku zawodowym, współpracować z technologami z zakresu poszczególnych gałęzi przemysłu oraz współdziałać z programistami i analitykami oprogramowania.
+Praktyki
+
+Praktyki zawodowe trwają 4 tygodnie w czasie letniej przerwy na 6 semestrze studiów stacjonarnych I stopnia. Student odbywa praktykę w wybranym przez siebie zakładzie/przedsiębiorstwie. Praktyki studentów mogą być realizowane w krajowych i zagranicznych zakładach/przedsiębiorstwach przemysłowych, instytucjach publicznych i niepublicznych, których charakter działań związany jest z kierunkiem odbywanych studiów. Praktyki mogą być również realizowane w jednostkach organizacyjnych AGH. Nadrzędnym celem praktyk jest uzupełnienie kompetencji w zakresie pracy zespołowej oraz zapoznanie się z wymaganiami przyszłych pracodawców. Praktyki pozwalają nabrać doświadczenia w zakresie wytwarzania oprogramowania lub stosowania istniejących narzędzi obliczeniowych, włączając zdobycie umiejętności szacowania czasu potrzebnego na realizację poszczególnych zleceń pracodawców oraz właściwej dokumentacji swojej pracy pod kątem dalszego wykorzystania w przedsiębiorstwie.
+
+Do najważniejszych firm, z którymi w ramach organizacji praktyk współpracuje wydział należą m.in. ArcelorMittal Poland, KGHM Polska Miedź, CELSA GROUP, Toyota Motor Manufacturing Poland, CMC Zawiercie, a także instytuty badawcze: Instytut Metalurgii i Inżynierii Materiałowej PAN, Instytut Metalurgii Żelaza w Gliwicach, ABB, Silvermedia, Asseco Poland, Comarch oraz Macrologic.
+Perspektywy zawodowe
+
+Absolwenci kierunku mogą pracować jako:
+analitycy i projektanci zaawansowanych algorytmów numerycznych wykorzystywanych do modelowania zjawisk fizycznych,
+projektanci sparametryzowanych modeli numerycznych, wymagających złożonej identyfikacji,
+programiści, szczególnie rekomendowani do pracy w zakresie odwzorowania algorytmów na sprzęt równoległy wysokiej wydajności,
+administratorzy systemów informatycznych, zwłaszcza komercyjnych systemów symulacyjnych i obliczeniowych,
+konsultanci będący pomostem pomiędzy inżynierami oprogramowania a specjalistami przeprowadzającymi eksperymenty obliczeniowe pod kątem analizy wybranych problemów nauki i techniki.
+Miejsca pracy:
+
+przedsiębiorstwa zajmujące się projektowaniem i produkcją oprogramowania, ze szczególnym wskazaniem zaawansowanych narzędzi obliczeń inżynierskich i naukowych (np. CAD, CAM, CAID, MES),
+przedsiębiorstwa funkcjonujące w różnych obszarach przemysłu (np. metalurgicznego, budowlanego), które potrzebują wsparcia w zakresie komputerowej analizy procesów technologicznych, optymalizacji konstrukcji, cyfrowego prototypownia oraz wizualizacji,
+laboratoria badawcze i jednostki naukowe operujące w zakresie analizy rzeczywistych zjawisk o złożonych modelach obliczeniowych,
+niezależni konsultanci istniejących rozwiązań komercyjnych w zakresie architektur sprzętowych wysokiej wydajności oraz symulacyjnych obliczeń złożonych systemów z rożnych dziedzin nauki i techniki.
+
+Kierunek Inżynieria Obliczeniowa jest prowadzony w kilku europejskich ośrodkach akademickich, a studia prowadzone w AGH są unikatowe w skali kraju.

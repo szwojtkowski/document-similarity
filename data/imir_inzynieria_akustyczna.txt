@@ -1,0 +1,69 @@
+Inżynieria Akustyczna
+
+Wydział Inżynierii Mechanicznej i Robotyki
+Absolwent studiów I stopnia posiada wiedzę z zakresu:
+
+matematyki, fizyki, mechaniki, podstaw informatyki i programowania,
+podstawy akustyki, teorii drgań, akustyki muzycznej i muzyki,
+elektrotechniki, elektroniki i teorii sygnałów,
+podstaw metrologii w szczególności metody i techniki pomiaru i estymacji podstawowych wielkości elektrycznych, akustycznych i mechanicznych,
+posiada wiedzę o zjawiskach, sprzęcie i technikach w zakresie realizacji nagrań,
+posiada ogólną wiedzę dotyczącą źródeł hałasu w technice i środowisku,
+zna metody i środki techniczne ograniczania hałasu,
+zna technologie analizy i syntezy mowy oraz komunikacji głosowej z komputerem,
+posiada wiedzę dotyczącą zjawisk akustycznych i drganiowych występujących w technice i muzyce,
+zna nowoczesne techniki, urządzenia i narzędzia programistyczne w stopniu pozwalającym na biegłe posługiwanie się nimi,
+wpływu działania hałasu i drgań na człowieka i jego środowisko,
+zna zasady kształtowania parametrów akustycznych wnętrz,
+zna zasady działania elementów elektronicznych, analogowych i cyfrowych układów elektronicznych oraz prostych systemów elektronicznych,
+zna i rozumie procesy rejestracji, przetwarzania, archiwizacji, transmisji i odtwarzania dźwięku,
+zna zasady, którymi musi się kierować inżynier dźwięku, aby wykreować obraz sceny akustycznej o pożądanych cechach,
+posiada wiedzę w zakresie ochrony własności intelektualnej i przemysłowej oraz prawa autorskiego.
+
+Ponadto absolwent studiów II stopnia posiada specjalistyczną wiedzę w zakresie jednej z dwóch specjalizacji: „Drgania i hałas w technice i środowisku” oraz „Inżynieria dźwięku w mediach i kulturze”. Posiada poszerzoną wiedzę z zakresu inżynierii akustycznej, jest przygotowany do samodzielnego prowadzenia prac projektowych. Nabywa również kompetencje dla wspomagania instytucji kultury i sztuki, a nawet dla aktywnego udziału w procesie tworzenia sztuki.
+Absolwent studiów I stopnia potrafi:
+
+wdrażać i eksploatować rozwiązania ograniczające hałas i wibracje obiektów technicznych,
+realizować nagrania dźwiękowe dla wszelkich typów mediów elektronicznych,
+kształtować właściwy przekaz dźwiękowy,
+potrafi biegle posługiwać się współczesnymi środkami technicznymi w pomiarach akustycznych i wibracyjnych,
+potrafi posługiwać się narzędziami programistycznymi oraz narzędziami komputerowo wspomaganego projektowania,
+potrafi opracować dokumentację zadania inżynierskiego, sporządzić rysunki, schematy oraz prezentację,
+potrafi przeprowadzić analizę i ocenę szkodliwości oddziaływania hałasu i drgań na człowieka i jego środowisko, a także dobrać rozwiązania ograniczające to oddziaływanie,
+potrafi przeprowadzić analizę akustyczną pomieszczenia, ocenić konieczność zastosowania adaptacji akustycznej wnętrza, jak również ją zaprojektować,
+potrafi zaprojektować prosty system rozpoznawania mowy,
+potrafi projektować proste algorytmy przetwarzania sygnałów oraz proste systemy sprzętowe cyfrowego przetwarzania sygnałów,
+potrafi oceniać i projektować proste instalacje elektroakustyczne,
+potrafi interpretować akustyczne dane pomiarowe.
+Ponadto absolwent studiów II stopnia potrafi:
+
+posiada umiejętność posługiwania się zaawansowaną wiedzą z zakresu inżynierii akustycznej pozwalającą na samodzielne podejmowanie twórczych przedsięwzięć inżynierskich oraz badawczych,
+potrafi samodzielnie projektować urządzenia i oprogramowanie stosowane w inżynierii akustycznej,
+potrafi oceniać wyniki pomiarów przy pomocy metod analizy statystycznej,
+potrafi wykorzystywać nowoczesne metody projektowania systemów dźwiękowych, w tym wielokanałowych, modelowania akustycznego wnętrz, diagnostyki wibroakustycznej, percepcyjnego kodowania dźwięku.
+Praktyki
+
+W ramach studiów I stopnia student ma obowiązek odbyć 4-tygodniową praktykę zawodową, którą realizuje w trakcie letniej przerwy w 6 semestrze studiów. Każdy student realizuje praktykę indywidualnie w wybranym przez siebie zakładzie, którego działalność związana jest z inżynierią mechaniczną, inżynierią wytwarzania. W ramach studiów II stopnia student w trakcie 3 semestru studiów realizuje miesięczną praktykę dyplomową, najczęściej powiązaną z tematyką realizowanej pracy magisterskiej. Studenci Inżynierii Akustycznej zazwyczaj odbywają praktyki w licznych małych firmach z zakresu techniki nagraniowej (studia nagrań), np. w Radiu Kraków, adaptacji akustycznej wnętrz, pomiarów hałasu oraz produkujących specjalistyczne oprogramowanie z zakresu akustyki.
+Perspektywy zawodowe
+
+Absolwenci kierunku mogą pracować jako:
+projektant, konstruktor (projektowanie i tworzenie oprogramowania przydatnego w akustyce oraz zastosowania akustyki biomedycznej),
+inżynier (np. główny inżynier w zakładzie, inżynier ds. produktu, ds. testów, ds. walidacji), do wszelkich prac inżynierskich związanych z akustyką,
+programista,
+specjalista ds. akustyki wnętrz,
+specjalista ds. ograniczania hałasu,
+projektant systemów dźwiękowych,
+specjalista ds. pomiarów akustycznych,
+reżyser dźwięku, realizator nagrań, realizator dźwięku scenicznego.
+Miejsca pracy
+
+biura projektów, transport (obniżanie hałasu komunikacyjnego), budownictwo (izolacja i adaptacja akustyczna pomieszczeń i budowli, wibroizolacja),
+firmy konsultingowe, konstrukcyjne i technologiczne,
+inżynieria ochrony środowiska (liczne instytucje państwowe i samorządowe),
+działy badawczo-rozwojowe w przemyśle (projektowanie urządzeń pod kątem obniżania ich drgań i hałasu),
+telekomunikacja i komunikacja (technologia mowy),
+media elektroniczne – radio, telewizja, Internet, produkcja nagrań dźwiękowych, produkcja nowoczesnych materiałów interaktywnych, nagłaśnianie koncertów i imprez masowych,
+specjalistyczny przemysł produkujący sprzęt elektroakustyczny, akustyczne urządzenia pomiarowe,
+własna działalności gospodarcza.
+
+Inżynieria Akustyczna to unikatowe w skali kraju studia o charakterze interdyscyplinarnym, prowadzone przez dwa wydziały AGH (Wydział Inżynierii Mechanicznej i Robotyki oraz Wydział Informatyki, Elektroniki i Telekomunikacji) kształcące inżynierów oraz magistrów inżynierów akustyków.

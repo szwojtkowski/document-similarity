@@ -1,0 +1,51 @@
+Inżynieria Biomedyczna
+
+Kierunek Inżynieria Biomedyczna oferuje wykształcenie interdyscyplinarne, wzbogacone wiedzą o najnowszych osiągnięciach nauki i techniki. Celem tych studiów jest wykształcenie inżyniera znającego zagadnienia technicznego wsparcia medycyny w zakresie informatyki, elektroniki, inżynierii materiałowej, biomechaniki i robotyki. Szczególną cechą studiów jest praktyczny kontakt z najnowocześniejszą aparaturą, systemami diagnostyki i terapii, opierającymi się na metodach i technologiach elektronicznych, informatycznych, telekomunikacyjnych, materiałowych, biomateriałowych i tkankowych.
+Absolwent studiów I stopnia posiada wiedzę z zakresu:
+
+matematyki, fizyki, fizyki medycznej, biologii i chemii,
+podstawowych zagadnień z zakresu elektrotechniki, elektroniki, automatyki i biomechaniki oraz robotyki,
+informatyki, obejmującą w szczególności eksplorację danych biomedycznych, podstaw telemedycyny, systemów informatycznego wsparcia diagnostyki i terapii,
+elektronicznej aparatury medycznej, cyfrowego przetwarzania sygnałów, pomiarów wielkości nieelektrycznych, technik obrazowania medycznego,
+biomateriałów, materiałoznawstwa, implantów i sztucznych narządów.
+Ponadto absolwent studiów II stopnia posiada wiedzę z zakresu (w zależności od wyboru specjalności):
+
+sztucznej inteligencji, metod uczenia maszynowego, rozwiązań do analizy dużych zbiorów danych (w tym obrazów medycznych), projektowania specjalizowanych aplikacji webowych, projektowania systemów przetwarzania danych pomiarowych, interfejsów multimodalnych,
+bionanotechnologii, nanocząstek, neuroelektroniki, optycznych metod badania materiałów, metod fizycznych w biologii i medycynie,
+inżynierii materiałowej (w tym implantów), inżynierii tkankowej i genetycznej, technik implantacyjnych, biomateriałów metalicznych i kompozytowych,
+biomechaniki i robotyki, modelowania struktur i procesów biologicznych, telechirurgii i robotyki medycznej, zaawansowanych systemów sterowania w urządzeniach medycznych, diagnostyki akustycznej.
+Absolwent studiów I stopnia potrafi:
+
+opisać anatomię i fizjologię podstawowych systemów i narządów człowieka, wyjaśnić zasadę fizyczną ich diagnozowania i terapii, zbudować i zweryfikować model matematyczny i numeryczny ich działania,
+wykorzystywać wiedzę z zakresu elektroniki, biofizyki i chemii do zaplanowania i przeprowadzenia prostych doświadczeń i pomiarów z wykorzystaniem organizmów żywych,
+określić typowe charakterystyki techniczne i przeznaczenie aparatury elektronicznej w medycynie, określić zakres zamienności poszczególnych aparatów, wybrać aparat o określonej charakterystyce z oferty rynkowej,
+wykorzystać wiedzę z zakresu fizjologii, biomechaniki, elektroniki i informatyki do zaprojektowania prototypowego urządzenia diagnostycznego, terapeutycznego lub rehabilitacyjnego i zaplanować jego walidację,
+stosować metody grafiki inżynierskiej, posługiwać się komputerowymi programami statystycznymi, środowiskami symulacyjnymi i programistycznymi i korzystać z medycznych obrazów cyfrowych,
+posługiwać się dokumentacją techniczną urządzeń medycznych.
+Ponadto absolwent studiów II stopnia potrafi:
+
+kierować zespołem realizującym projekt w zakresie zastosowania informatyki, matematyki lub elektroniki w rejestracji i przetwarzaniu sygnałów lub obrazów medycznych, ocenić poprawność automatycznej interpretacji sygnałów lub obrazów,
+zaadaptować system teleinformatyczny do przekazywania informacji medycznych, zarządzania rekordem, diagnozowania i terapii lub nadzoru rehabilitacji, ocenić zagrożenia występujące w takim systemie,
+posługiwać się metodami analizy danych (data science) w eksploracji dużych zbiorów danych biomedycznych,
+przeprowadzić analizę ryzyka i wskazać czynniki zagrożenia związane z zastosowaniem urządzeń technicznych do diagnozowania, terapii lub rehabilitacji człowieka,
+zastosować akty prawne oraz uwarunkowania techniczne i ekonomiczne do zaplanowania produkcji i walidacji wyrobu medycznego.
+Praktyki
+
+Praktyki zawodowe organizowane są po 6 semestrze studiów i trwają 4 tygodnie.
+W czasie praktyk studenci zapoznają się z wykorzystywaną aparaturą medyczną, aplikacjami informatycznymi lub badaniami naukowymi z zakresu inżynierii biomedycznej oraz mają możliwość przeszkolenia oraz samodzielnego (pod nadzorem upoważnionej osoby) wykonywania badań, testów specjalistycznych (kontrola jakości) dostępnej aparatury medycznej.
+Niezależnie od praktyk organizowane są wycieczki naukowe.
+Perspektywy zawodowe
+
+Absolwenci kierunku Inżynieria Biomedyczna mogą pracować jako konstruktorzy, inżynierowie kliniczni i wdrożeniowi, naukowcy, audytorzy i menedżerowie.
+Przykładowe miejsca pracy
+
+firmy informatyczne działające w obszarze telemedycyny i informatycznego wsparcia diagnostyki i terapii,
+firmy informatyczne zajmujących się analizą danych (data science) i przetwarzaniem sygnałów,
+stanowiska inżynierów medycznych w zakresie projektowania, integracji i eksploatacji nowoczesnych systemów diagnostycznych i terapeutycznych,
+firmy zajmujące się konstrukcją i produkcją aparatury medycznej,
+jednostki służby zdrowia – stanowiska ekspertów i dyrektorów technicznych odpowiedzialnych za wybór i właściwe wykorzystanie zaplecza technicznego,
+jednostki naukowo-badawcze rozwijające nowoczesne technologie elektroniczne, materiałowe i mechaniczne wspomagające organizmy żywe,
+przedstawicielstwa serwisowe aparatury medycznej oraz firmy audytorskie i akredytacyjne w zakresie techniki medycznej,
+jednostki administracji w obszarze decyzyjnym związanym z ochroną zdrowia
+
+Jak wskazują prowadzone badania 85% absolwentów kierunku znajduje pracę w ciągu pół roku od ukończenia studiów.

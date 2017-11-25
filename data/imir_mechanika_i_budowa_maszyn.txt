@@ -1,0 +1,64 @@
+Mechanika i Budowa Maszyn
+
+Wydział Inżynierii Mechanicznej i Robotyki
+Absolwent studiów I stopnia posiada wiedzę w obszarze inżynierii mechanicznej i inżynierii wytwarzania w szczególności w zakresie:
+
+podstawowych zagadnień z przedmiotów ogólnych (matematyka, fizyka, chemia, informatyka),
+zagadnień z podstawowych przedmiotów technicznych tj. grafiki inżynierskiej, mechaniki, wytrzymałości elementów maszyn, konstrukcji maszyn, mechaniki płynów, termodynamiki,
+podstawowych zagadnień z zakresu elektrotechniki, elektroniki, automatyki i sterowania,
+budowy, projektowania, wytwarzania oraz eksploatacji maszyn i urządzeń mechanicznych,
+układów mechanicznych, systemów wytwórczych, maszyn i urządzeń energetycznych, technologicznych i transportowych,
+podstawowych właściwości materiałów inżynierskich obejmujących własności mechaniczne, technologiczne i eksploatacyjne,
+nowych materiałów stosowanych w budowie i eksploatacji maszyn,
+nowych metod projektowania w tym aplikacji wspierających projektowanie CAE,
+podstawowych zagadnień dotyczących zarządzania, w tym zarządzania jakością, bezpieczeństwem,
+ochrony własności intelektualnej, prawa patentowego i transferu technologii.
+
+Ponadto absolwent studiów II stopnia posiada specjalistyczną wiedzę w zakresie jednej z dziesięciu specjalizacji obejmujących: eksploatację maszyn i pojazdów, inżynierię systemów wytwarzania, maszyny i urządzenia energetyczne oraz ekoenergetyczne, maszyny górnicze oraz do robót ziemnych i transportu bliskiego, komputerowe wspomaganie projektowania, informatykę w inżynierii mechanicznej, inżynierię materiałów konstrukcyjnych oraz transport linowy.
+Absolwent studiów I stopnia potrafi:
+
+wykorzystać wiedzę z mechaniki, wytrzymałości do projektowania elementów maszyn i układów mechanicznych,
+zaprojektować i skonstruować części maszyn, urządzeń i układów mechanicznych,
+korzystać z technik komputerowego wspomagania projektowania (CAE) w tym aplikacji do modelowania bryłowego i tworzenia dokumentacji technicznej (CAD), komputerowego wspomaganie wytwarzania (CAM), obliczeń numerycznych (MES, CFD) itp.
+planować i przeprowadzać eksperymenty, w tym pomiary i symulacje komputerowe, interpretować uzyskane wyniki i wyciągać wnioski,
+wykorzystać narzędzia informatyczne do analizy i przetwarzania danych,
+stosować aparaturę pomiarową w zakresie inżynierii mechanicznej,
+pracować indywidualnie i w zespole,
+stosować wiedzę dotyczącą doboru procesów produkcyjnych oraz opracowywania dokumentacji związanej z przepływem produkcji.
+Ponadto absolwent studiów II stopnia potrafi:
+
+przetwarzać i analizować dane pomiarowe, wyciągać wnioski dotyczące stanu technicznego badanych maszyn i urządzeń,
+opisać i zdefiniować funkcje i zadania logistyki w przedsiębiorstwie,
+dobrać właściwe narzędzia i oprzyrządowanie do procesów obróbkowych,
+opracować model obiektu mechanicznego z wykorzystaniem pakietów CAD,
+wykonać symulację komputerową obiektów mechanicznych,
+zapisać i rozwiązać równania drgań podstawowych układów o dyskretnym i ciągłym rozkładzie masy i sztywności,
+ocenić trwałość i niezawodność złożonych układów technicznych.
+Praktyki
+
+W ramach studiów I stopnia student ma obowiązek odbyć 4-tygodniową praktykę zawodową, którą realizuje w trakcie letniej przerwy w 6 semestrze studiów. Każdy student realizuje praktykę indywidualnie w wybranym przez siebie zakładzie, którego działalność związana jest z inżynierią mechaniczną, inżynierią wytwarzania. W ramach studiów II stopnia student w trakcie 3 semestru studiów realizuje miesięczną praktykę dyplomową, najczęściej powiązaną z tematyką realizowanej pracy magisterskiej.
+
+Do najważniejszych firm, z którymi współpracuje Wydział należą m.in. ABB, KGHM Polska Miedź, PZL, KHW, Tauron, WOLFRAM, CDM Smith, EMT-Systems, KIRCHHOFF Polska, Valmet Automation, FTT Stomil Wolbrom, SIGNALCO LTD, Sandvik Polska, UDT, TDT, National Instruments, VALEO Autosystemy, Control Process, Nexteer Automotive, TRW Automotive.
+Perspektywy zawodowe
+
+Absolwenci kierunku mogą pracować jako:
+projektanci i konstruktorzy maszyn i urządzeń,
+inżynier (np. główny inżynier w zakładzie, inżynier ds. produktu, ds. testów, ds. walidacji),
+inżynierowie w zakładach produkcyjnych,
+inżynierowie w zakładach energetycznych,
+inżynierowie dozoru technicznego,
+specjaliści ds. eksploatacji maszyn, napraw i remontów.
+Miejsca pracy
+
+przedsiębiorstwa przemysłu maszynowego z wytwarzaniem i eksploatacją maszyn,
+biura projektowe,
+firmy konsultingowe, konstrukcyjne i technologiczne,
+firmy związane z organizacją produkcji i automatyzacją procesów technologicznych,
+jednostki odbioru technicznego oraz jakościowego produktów i materiałów,
+jednostki akredytacyjne i atestujące oraz inne wymagające wiedzy technicznej i informatycznej,
+jednostki naukowo-badawcze,
+zakłady górnicze oraz zakłady przeróbcze,
+własna działalność gospodarcza,
+elektrownie, elektrociepłownie, w działach energetycznych zakładów produkcyjnych.
+
+Jak wskazują prowadzone badania ponad 90% absolwentów kierunku znajduje pracę w ciągu pół roku od ukończenia studiów. Kierunek Mechanika i Budowa Maszyn w latach 2014–2016 w rankingu „Perspektyw” został wybrany najlepszym kierunkiem w swojej grupie. Kierunek posiada akredytacje zarówno Komisji Akredytacyjnej Uczelni Technicznych, jak i Polskiej Komisji Akredytacyjnej.

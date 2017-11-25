@@ -1,0 +1,55 @@
+Informatyka Stosowana
+
+Wydział Inżynierii Metali i Informatyki Przemysłowej
+Absolwent studiów I stopnia posiada wiedzę z zakresu:
+
+podstawowych zagadnień matematyki, fizyki i chemii,
+programowania proceduralnego, algorytmiki i metod numerycznych, a także ich zastosowania w rozwiązywaniu praktycznych problemów związanych z projektowaniem i implementacją oprogramowania użytkowego,
+projektowania aplikacji komputerowych z wykorzystaniem różnych architektur oprogramowania,
+tworzenia graficznego interfejsu użytkownika dowolnych systemów okienkowych, internetowych i mobilnych,
+implementacji dowolnego oprogramowania użytkowego z wykorzystaniem technologii programistycznych wiodących na rynku,
+podstawy budowy i działania komputerów oraz urządzeń przenośnych, ich systemów operacyjnych oraz sieci komputerowych.
+Ponadto absolwent studiów II stopnia posiada wiedzę z zakresu:
+
+bezpieczeństwa sieciowego, wykorzystywanych certyfikatów i algorytmiki, urządzeń dedykowanych dodatkowej autoryzacji, zaawansowanej konfiguracji urządzeń sieciowych,
+zarządzania zespołem programistów oraz nowoczesnej metodyki prowadzenia dużych projektów informatycznych,
+projektowania i programowania aplikacji wieloplatformowych,
+zaawansowanych symulacji wielkoskalowych,
+wykorzystania komercyjnego oprogramowania do projektowania procesów przemysłowych, tworzenia dedykowanych procedur użytkownika,
+tworzenia systemów ekspertowych na bazie nowoczesnych rozwiązań z zakresu baz wiedzy i przechowywania danych, silników wnioskowania,
+obsługi i przetwarzania dużych zbiorów danych, data mining,
+systemów obsługi przedsiębiorstw jak ERP, MRP, CRM.
+Absolwent studiów I stopnia potrafi:
+
+zaprojektować system komputerowy, a następnie zaimplementować jego funkcjonalność w zależności od wymagań przyszłych użytkowników oraz przeznaczenia systemu,
+wskazać podstawowe zadania związane z tworzeniem systemu komputerowego, kontrolować oraz dokumentować proces tworzenia oprogramowania,
+wykonać projekt sieci komputerowej oraz skonfigurować i zabezpieczyć urządzenia sieciowe,
+analizować metalurgiczne procesy przemysłowe oraz zjawiska zachodzące w materiale, opracować własne modele numeryczne na bazie Metody Elementów Skończonych lub wskazać istniejące na rynku programy lub biblioteki numeryczne pozwalające na wykonanie symulacji numerycznych analizowanego procesu,
+wykonać projekt i stworzyć dedykowane urządzenie zbudowane w oparciu o mikrokontrolery,
+porozumiewać się w środowisku zawodowym, współpracować z technologami z zakresu poszczególnych gałęzi przemysłu oraz współdziałać z programistami i analitykami oprogramowania.
+Ponadto absolwent studiów II stopnia potrafi:
+
+zarządzać złożoną siecią komputerową i dbać o jej bezpieczeństwo,
+zarządzać projektami informatycznymi na dużą skalę, zarządzać zespołem ludzkim oraz integrować tworzone przez pracowników oprogramowanie,
+projektować procesy przemysłowe z wykorzystaniem komercyjnego oprogramowania wzbogaconego o dedykowane procedury użytkownika, metody optymalizacji oraz analizy wrażliwości,
+zaprojektować i zaimplementować system ekspertowy wyposażony w zaawansowany silnik wnioskujący,
+wykonać analizę dużych zbiorów danych i zinterpretować otrzymane wyniki.
+Praktyki
+
+Praktyki zawodowe trwają 4 tygodnie w czasie letniej przerwy na 6 semestrze studiów stacjonarnych I stopnia. Student odbywa praktykę w wybranym przez siebie zakładzie/przedsiębiorstwie. Praktyki studentów mogą być realizowane w krajowych i zagranicznych zakładach/przedsiębiorstwach przemysłowych, instytucjach publicznych i niepublicznych, których charakter działań związany jest z kierunkiem odbywanych studiów. Praktyki mogą być również realizowane w jednostkach organizacyjnych AGH. Na studiach II stopnia student odbywa praktykę dyplomową związaną z realizacją pracy magisterskiej.
+
+Do najważniejszych firm, z którymi w ramach organizacji praktyk współpracuje wydział należą m.in. ArcelorMittal Poland, KGHM Polska Miedź, CELSA GROUP, Toyota Motor Manufacturing Poland, CMC Zawiercie, a także instytuty badawcze: Instytut Metalurgii i Inżynierii Materiałowej PAN, Instytut Metalurgii Żelaza w Gliwicach, ABB, Silvermedia, Asseco Poland, Comarch oraz Macrologic.
+Absolwenci kierunku mogą pracować jako:
+
+projektanci oprogramowania użytkowego zbudowanego w oparciu o bazy danych, posiadającego część funkcjonalną oraz interfejsową,
+programiści aplikacji komputerowych w dowolnej architekturze programistycznej z wykorzystaniem najpopularniejszych technologii implementacyjnych,
+administratorzy systemów informatycznych oraz systemów operacyjnych,
+programiści systemów komputerowych wykorzystujących symulacje numeryczne do modelowania metalurgicznych lub podobnych procesów przemysłowych oraz do modelowania zjawisk zachodzących w materiale,
+menedżerowie oraz liderzy projektów informatycznych,
+projektanci zabezpieczeń i sieci komputerowych odpornych na włamania,
+programiści i projektanci oprogramowania dedykowanego dla potrzeb przemysłu,
+konsultanci i analitycy problemów przetwarzania danych i wnioskowania.
+Miejsca pracy
+
+przedsiębiorstwa zajmujące się projektowaniem i produkcją oprogramowania,
+laboratoria badawcze i jednostki naukowe operujące w zakresie informatyki, metalurgii i inżynierii materiałowej.
