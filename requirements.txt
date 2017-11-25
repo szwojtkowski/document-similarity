@@ -2,3 +2,4 @@ gensim
 nltk
 Flask
 sklearn
+flask_cors
