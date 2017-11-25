@@ -1,4 +1,5 @@
 from nltk import word_tokenize
+import nltk
 import os
 from os import listdir
 from sklearn.metrics.pairwise import linear_kernel
@@ -9,6 +10,7 @@ import pickle
 
 
 class TfidfModel:
+    nltk.download('punkt')
 
     def __init__(self):
         self.tfidf = TfidfVectorizer(tokenizer=self.tokenize, stop_words='english')
