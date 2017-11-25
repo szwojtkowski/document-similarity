@@ -1,6 +1,7 @@
 from flask import Flask
 from flask import request
 from flask import jsonify
+from flask_cors import CORS
 from gensim.models.doc2vec import Doc2Vec
 from tfidf_model import TfidfModel
 
