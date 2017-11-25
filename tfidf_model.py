@@ -1,4 +1,4 @@
-import nltk
+from nltk import word_tokenize
 import os
 from os import listdir
 from sklearn.metrics.pairwise import linear_kernel
@@ -24,7 +24,7 @@ class TfidfModel:
 
     @staticmethod
     def tokenize(text):
-        tokens = nltk.word_tokenize(text)
+        tokens = word_tokenize(text)
         stems = []
         for item in tokens:
             stems.append(PorterStemmer().stem(item))
