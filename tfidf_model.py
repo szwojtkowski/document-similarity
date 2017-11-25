@@ -42,8 +42,7 @@ class TfidfModel:
             pickle.dump(self, file)
 
     def create_from_files(self, data_dir):
-        self.labels = [f for f in listdir(data_dir) if f.endswith('.txt')]
-
+        self.labels = [f for f in listdir(data_dir)]
         for doc in self.labels:
             with open("{}/{}".format(data_dir, doc), 'r') as file:
                 text = file.read()
