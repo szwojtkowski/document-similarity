@@ -1,0 +1,6 @@
+FROM python:3.6.1
+
+WORKDIR /app
+ADD . /app
+
+CMD sleep 5000
