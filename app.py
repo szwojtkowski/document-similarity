@@ -14,11 +14,11 @@ tfidf = TfidfModel.load('agh.tfidf')
 def similarities2obj(similarities):
     results = []
     for (info, similarity) in similarities:
-        (departament, degree, name) = info.split("|")
+        (departament, name) = info.split("|")
         result = {
             "name": name,
             "departament": departament,
-            "degree": degree,
+            "degree": "Stacjonarne - Studia I stopnia",
             "similarity": similarity
         }
         results.append(result)

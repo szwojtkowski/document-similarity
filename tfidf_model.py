@@ -57,3 +57,10 @@ class TfidfModel:
         for index, score in self.find_similar(self.tfidf_matrix, input_vec, topn):
             items.append((self.labels[index], score))
         return items
+
+model = TfidfModel()
+model.create_from_files("syllabus1")
+model.save("agh.tfidf")
+
+m = TfidfModel.load("agh.tfidf")
+print(m.similar("UI UX interfejsy graficzne socjologia"))
