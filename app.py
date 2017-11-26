@@ -7,7 +7,7 @@ from tfidf_model import TfidfModel
 
 app = Flask(__name__)
 cors = CORS(app)
-doc2vec = Doc2Vec.load('agh.doc2vec')
+# doc2vec = Doc2Vec.load('agh.doc2vec')
 tfidf = TfidfModel.load('agh.tfidf')
 
 
@@ -33,9 +33,9 @@ def studies():
     return jsonify(similarities2obj(similarities))
 
 
-@app.route("/studies2")
-def studies2():
-    search = request.args.get('search').split(',')
-    infered = doc2vec.infer_vector(search, steps=100)
-    similarities = doc2vec.docvecs.most_similar([infered], topn=50)
-    return jsonify(similarities2obj(similarities))
+# @app.route("/studies2")
+# def studies2():
+#     search = request.args.get('search').split(',')
+#     infered = doc2vec.infer_vector(search, steps=100)
+#     similarities = doc2vec.docvecs.most_similar([infered], topn=50)
+#     return jsonify(similarities2obj(similarities))
