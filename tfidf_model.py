@@ -51,9 +51,9 @@ class TfidfModel:
 
         self.tfidf_matrix = self.tfidf.fit_transform(self.token_dict.values())
 
-    def similar(self, text):
+    def similar(self, text, topn=10):
         input_vec = self.tfidf.transform([text])
         items = []
-        for index, score in self.find_similar(self.tfidf_matrix, input_vec):
+        for index, score in self.find_similar(self.tfidf_matrix, input_vec, topn):
             items.append((self.labels[index], score))
         return items

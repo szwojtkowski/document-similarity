@@ -3,9 +3,9 @@ from os import listdir
 from nltk import word_tokenize
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 
-data_dir = "data"
+data_dir = "syllabus"
 
-labels = [f for f in listdir(data_dir) if f.endswith('.txt')]
+labels = [f for f in listdir(data_dir)]
 
 data = {}
 for doc in labels:
